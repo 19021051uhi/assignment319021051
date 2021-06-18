@@ -4,7 +4,7 @@ The concept is to implement a few new features to an existing project to
 make it more useful and user-friendly. The main project is based on the
 <https://i-want-to-study-engineering.org/q/balances> website.
 
-![](media/image1.png)
+![](https://github.com/19021051uhi/assignment319021051/blob/main/Picture1.png)
 
 We are meant to deliver three kinds of new features to the project which
 are consist of:
@@ -33,7 +33,7 @@ other users.
 This is the final look of the website. Different features have been
 developed which will be described in the following:
 
-![](media/image2.png)
+![](https://github.com/19021051uhi/assignment319021051/blob/main/Picture2.png)
 
 ## Google Authentication
 
@@ -41,7 +41,7 @@ Firebase Google Authentication flow has been used to sign in/signup the
 user. The user will be prompted to login using a Google account and will
 be taken to the home page once signed in.
 
-![](media/image3.png)
+![](https://github.com/19021051uhi/assignment319021051/blob/main/Picture3.png)
 
 ## Question submission
 
@@ -53,20 +53,20 @@ live chat support which will be explained in the next section. The
 system will print an appropriate message to the user after successful
 submission.
 
-![](media/image4.png)
+![](https://github.com/19021051uhi/assignment319021051/blob/main/Picture4.png)
 
 ## Live chat support
 
 As it is visible in the screenshot below, a notification will be shown
 to the admin once there is a new question available to review.
 
-![](media/image5.png)
+![](https://github.com/19021051uhi/assignment319021051/blob/main/Picture5.png)
 
 After clicking on the notification, a pop-up chat window will open to
 reply to the user. Admins can upload media using the camera icon
 provided.
 
-![](media/image6.png)
+![](https://github.com/19021051uhi/assignment319021051/blob/main/Picture6.png)
 
 Back to the user’s dashboard, and once an admin replies to the user’s
 question, an ‘R’ notification will be shown to the user and by clicking
@@ -74,7 +74,7 @@ on it, the user can access the live chat support. From now on, the
 conversation can be moved forward by tapping on the notification by
 either side.
 
-![](media/image7.png)
+![](https://github.com/19021051uhi/assignment319021051/blob/main/Picture7.png)
 
 ## FAQs
 
@@ -83,7 +83,7 @@ the selected answer will be listed and shown next to the questions
 pop-up video. The overflowed FAQs can be scrolled down to maintain the
 pop-up screen dimensions and layout.
 
-![](media/image8.png)
+![](https://github.com/19021051uhi/assignment319021051/blob/main/Picture8.png)
 
 ## Hints
 
@@ -93,7 +93,7 @@ enabled a user to be able to submit unlimited answers to test the Hints
 functionality. This is a real-time feature that will be demonstrated in
 the video provided for this coursework.
 
-![](media/image9.png)
+![](https://github.com/19021051uhi/assignment319021051/blob/main/Picture9.png)
 
 If we press the “CHECK MY ANSWER” button, we will dig through the
 ‘balance’ question JSON file to get the correct answer and check
@@ -117,7 +117,7 @@ soon as submitting a new question. First check if the user exists and
 then create a \`Chat\` collection with the user’s id, photo, text and
 uploaded file link (if there’s any).
 
-![](media/image10.png)
+![](https://github.com/19021051uhi/assignment319021051/blob/main/Picture10.png)
 
 The other challenge was to show an appropriate notifications layout for
 an admin or a simple user above the page. What I have done is that
@@ -131,7 +131,7 @@ Actually, when an admin replies to a user question, we will update the
 ‘adminid\` field of that question with the admin id. Now we can show a
 notification to the user that your question has been reviewed.
 
-![](media/image11.png)
+![](https://github.com/19021051uhi/assignment319021051/blob/main/Picture11.png)
 
 The next challenge was to create a customisable pop-up window within the
 React, which I used Modals implement. Along with this, I did some CSS
@@ -141,7 +141,7 @@ messages and changed the chatbox layout to resemble a normal chat
 structure. Also, I had to add the FAQ for the messages that an admin has
 sent.
 
-![](media/image12.png)
+![](https://github.com/19021051uhi/assignment319021051/blob/main/Picture12.png)
 
 Despite all, in my opinion, the most challenging part was to create a
 file upload functionality with a custom attach icon. I have added
@@ -177,4 +177,4 @@ fact that there is only a balance question to be dealt with but
 generally I have designed the app to be able to change the static
 content with dynamic content coming from an API endpoint.
 
-![](media/image13.png)
+![](https://github.com/19021051uhi/assignment319021051/blob/main/Picture13.png)
