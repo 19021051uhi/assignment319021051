@@ -17,7 +17,6 @@ are consist of:
 3)  Give hinting using an overall percentage of responses for each
     answer.
 
-4)  
 In this term, the user will be able to get in touch with the admins and
 get support whenever it is needed. There are different places that the
 user can submit a question and get a reply for that particular problem.
